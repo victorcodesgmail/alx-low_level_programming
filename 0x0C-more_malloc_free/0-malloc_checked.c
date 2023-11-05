@@ -5,6 +5,7 @@
 /**
  * malloc_checked-main
  * @b: b
+ * Return: 0
  */
 void *malloc_checked(unsigned int b)
 {
